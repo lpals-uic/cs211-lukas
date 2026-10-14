@@ -21,7 +21,7 @@ STEP 4: INDEX & VERIFY PAGES
 - Add links for all `<netid>.md` files inside `README.md`.
 - Visit live GitHub Pages URL and test all 5 student links.
 
-[Lukas Palshmitas](lpals.md)
+[Lukas Palshmitas](./lpals.md)
 
 STEP 5: PEER REVIEW & ENHANCEMENT
 - Review teammate's file on GitHub.com and leave feedback.
